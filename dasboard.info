@@ -1,0 +1,75 @@
+
+name = dashboard
+description = DRUPAL 7 DASHBOARD
+package = Core
+version = VERSION
+core = 7.x
+
+
+
+
+
+ stylesheets[all][] = css/bootstrap.min.css
+      stylesheets[all][] = css/animate.min.css
+      stylesheets[all][] = fonts/css/font-awesome.min.css
+      stylesheets[all][] = css/animate.min.css
+      stylesheets[all][] = css/custom.css
+      stylesheets[all][] = css/maps/jquery-jvectormap-2.0.1.css
+      stylesheets[all][] = css/icheck/flat/green.css
+      stylesheets[all][] = css/floatexamples.css
+      stylesheets[all][] = css/layout.css
+
+
+      scripts[] = js/jquery.min.js
+      scripts[] = js/nprogress.js
+      scripts[] = js/bootstrap.min.js
+      scripts[] = js/gauge/gauge.min.js
+      scripts[] = js/gauge/gauge_demo.js
+      scripts[] = js/chartjs/chart.min.js
+      scripts[] = js/progressbar/bootstrap-progressbar.min.js
+      scripts[] = js/nicescroll/jquery.nicescroll.min.js
+      scripts[] = js/icheck/icheck.min.js
+      scripts[] = js/moment.min.js
+      scripts[] = js/datepicker/daterangepicker.js
+      scripts[] = js/custom.js
+      scripts[] = js/flot/jquery.flot.js
+      scripts[] = js/flot/jquery.flot.pie.js
+      scripts[] = js/flot/jquery.flot.orderBars.js
+      scripts[] = js/flot/jquery.flot.time.min.js
+      scripts[] = js/flot/date.js
+      scripts[] = js/flot/jquery.flot.spline.js
+      scripts[] = js/flot/jquery.flot.stack.js
+      scripts[] = js/flot/curvedLines.js
+      scripts[] = js/flot/jquery.flot.resize.js
+
+
+
+regions[header] = Header
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+
+regions[featured] = Featured
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+
+regions[triptych_first] = Triptych first
+regions[triptych_middle] = Triptych middle
+regions[triptych_last] = Triptych last
+
+regions[footer_firstcolumn] = Footer first column
+regions[footer_secondcolumn] = Footer second column
+regions[footer_thirdcolumn] = Footer third column
+regions[footer_fourthcolumn] = Footer fourth column
+regions[footer] = Footer
+
+settings[shortcut_module_link] = 0
+
+
+; Information added by Drupal.org packaging script on 2015-08-19
+version = "7.39"
+project = "drupal"
+datestamp = "1440020197"
+

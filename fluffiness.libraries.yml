@@ -1,0 +1,59 @@
+cuddly-slider:
+  version: 1.x
+  css:
+    theme:
+      css/bootstrap.min.css: {}
+      css/animate.min.css: {}
+      fonts/css/font-awesome.min.css: {}
+      css/animate.min.css: {}
+      css/custom.css: {}
+      css/maps/jquery-jvectormap-2.0.1.css: {}
+      css/icheck/flat/green.css: {}
+      css/floatexamples.css: {}
+      css/layout.css: {}
+      css/style.css: {}
+      css/colors.css: {}
+      css/print.css: {}
+      
+      
+  js:
+      js/jquery.min.js: {}
+      js/nprogress.js: {}
+      js/bootstrap.min.js: {}
+      js/gauge/gauge.min.js: {}
+      js/gauge/gauge_demo.js: {}
+      js/chartjs/chart.min.js: {}
+      js/progressbar/bootstrap-progressbar.min.js: {}
+      js/nicescroll/jquery.nicescroll.min.js: {}
+      js/icheck/icheck.min.js: {}
+      js/moment.min.js: {}
+      js/datepicker/daterangepicker.js: {}
+      js/custom.js: {}
+      js/flot/jquery.flot.js: {}
+      js/flot/jquery.flot.pie.js: {}
+      js/flot/jquery.flot.orderBars.js: {}
+      js/flot/jquery.flot.time.min.js: {}
+      js/flot/date.js: {}
+      js/flot/jquery.flot.spline.js: {}
+      js/flot/jquery.flot.stack.js: {}
+      js/flot/curvedLines.js: {}
+      js/flot/jquery.flot.resize.js: {}
+      js/customtest.js: {}    
+  dependencies:
+    - core/jquery  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+   
